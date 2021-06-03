@@ -27,6 +27,7 @@
     <leaf />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -44,6 +45,11 @@
       </list>
     </option>
   </component>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> 5c8d75d5a5fb85a0ecc7692bb50920cc83755c7e
   <component name="ProjectFrameBounds" extendedState="6">
 =======
   <component name="Git.Settings">
@@ -91,9 +97,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
 =======
 >>>>>>> e669dfb18e6424050b12db5acbdd6f497ad91e62
+=======
+>>>>>>> 5c8d75d5a5fb85a0ecc7692bb50920cc83755c7e
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,18 +156,24 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
 =======
+=======
+>>>>>>> 5c8d75d5a5fb85a0ecc7692bb50920cc83755c7e
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
+<<<<<<< HEAD
 >>>>>>> e669dfb18e6424050b12db5acbdd6f497ad91e62
+=======
+>>>>>>> 5c8d75d5a5fb85a0ecc7692bb50920cc83755c7e
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -179,7 +194,10 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.3289689" />
+<<<<<<< HEAD
 >>>>>>> e669dfb18e6424050b12db5acbdd6f497ad91e62
+=======
+>>>>>>> 5c8d75d5a5fb85a0ecc7692bb50920cc83755c7e
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
